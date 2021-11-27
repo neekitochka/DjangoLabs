@@ -1,1 +1,1 @@
-Here is a list of laboratories working on the discipline "Web-programming", MTUCI. 
+Here you can see the web programming laboratory work
